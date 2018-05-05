@@ -6,7 +6,7 @@ The matching process includes the following four steps:
 * cost_functions.py.......: calculating the the cost functions, that was clustering validation index in this case;
 * descriptors.py..........: calculating Normalized Multiscale Bending Energy (NMBE);
 * nmbe_multi.py...........: use descriptors.py script to describe all dataset using multiple process;
-* main.py.................: main script that start the optimization
+* main.py.................: main script that start the optimization.
 
 There are some parameters in the codes, and they should be changed by modifying the codes in specific places.
 
