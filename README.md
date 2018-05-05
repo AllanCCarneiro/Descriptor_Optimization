@@ -12,9 +12,7 @@ There are some parameters in the codes, and they should be changed by modifying 
 
 
 For more details, please refer to
-CARNEIRO, A. C.; LOPES, J. G. F.; ROCHA NETO, J. F. S.; SOUZA, M. M. S.; MEDEIROS,
-F. N. S.; BEZERRA, F. N. On the evaluation of cost functions for parameter optimization of a
-multiscale shape descriptor. In: IEEE. International Symposium on Signal Processing and
+* CARNEIRO, A. C.; LOPES, J. G. F.; ROCHA NETO, J. F. S.; SOUZA, M. M. S.; MEDEIROS, F. N. S.; BEZERRA, F. N. On the evaluation of cost functions for parameter optimization of a multiscale shape descriptor. In: IEEE. International Symposium on Signal Processing and
 Information Technology (ISSPIT), 2017.
 
 
