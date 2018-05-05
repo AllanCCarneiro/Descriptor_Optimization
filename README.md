@@ -1,5 +1,5 @@
 # Descriptor_Optimization
-This fold contains all necessary code files to optimize the NMBE with the cost functions: Silhoutte, Davies-Bouldin index or Calinski-Harabasz index.
+This fold contains all necessary code files to optimize the Normalized Multiscale Bending Energy descriptor (NMBE) by Simulated Annealing(SA) with the cost functions: Silhoutte, Davies-Bouldin index or Calinski-Harabasz index.
 
 The matching process includes the following four steps:
 
