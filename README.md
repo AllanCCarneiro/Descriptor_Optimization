@@ -16,7 +16,7 @@ For more details, please refer to
 Information Technology (ISSPIT), 2017.
 
 
-Allan Cordeiro Carneiro
-Ms, Instituto Federal de Educação, Ciência e Tecnologia do Ceará
-Ceará, Brazil
+Allan Cordeiro Carneiro__
+Ms, Instituto Federal de Educação, Ciência e Tecnologia do Ceará__
+Ceará, Brazil__
 May 4th, 2018
