@@ -3,10 +3,11 @@ This fold contains all necessary code files to optimize the Normalized Multiscal
 
 The matching process includes the following four steps:
 
-* cost_functions.py.......: calculating the the cost functions, that was clustering validation index in this case;
-* descriptors.py..........: calculating Normalized Multiscale Bending Energy (NMBE);
-* nmbe_multi.py...........: use descriptors.py script to describe all dataset using multiple process;
-* main.py.................: main script that start the optimization.
+* cost_functions.py............: calculating the the cost functions, that was clustering validation index in this case;
+* descriptors.py...............: calculating Normalized Multiscale Bending Energy (NMBE);
+* nmbe_multi.py................: use descriptors.py script to describe all dataset using multiple process;
+* main.py......................: main script that start the optimization and create files (.txt) with each line corresponding a epoch of parameters adjustment by Simulated Annealing(SA), the first element is the cost function value followed by the parameters values in question;
+* read_params_and_describe.py..: create NMBE descriptor files that used the parameters optimized of files generate by main.py
 
 There are some parameters in the codes, and they should be changed by modifying the codes in specific places.
 
